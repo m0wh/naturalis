@@ -1,5 +1,5 @@
 # Naturalis
-*The specification of this project is currently being developed in french. It will be translated on day, but if you speak both french and english, your help could be precious ! Please refer to [CONTRIBUTING.md](https://github.com/m0wh/naturalis/blob/master/CONTRIBUTING.md) for more information.*
+*The specification of this project is currently being developed in french. It will be translated one day, but if you speak both french and english, your help could be precious ! Please refer to [CONTRIBUTING.md](https://github.com/m0wh/naturalis/blob/master/CONTRIBUTING.md) for more information.*
 
 ---
 
