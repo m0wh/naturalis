@@ -3,7 +3,7 @@
 
 ---
 
-**Naturalis** s'inscrit dans la tendance biomimétique actuelle, qui consiste à vouloir imiter la nature dans tous les domaines (transports, textile, matériaux...). Cependant, ici le but n'est pas de s'inspirer des propriétés de plante ou d'animaux pour les adapter aux besoin des Hommes mais de créer une simulation d'un environnement propice à la vie et d'observer ce que quelques cellules procaryotes avec un adn très simple peuvent générer comme espèces. Ce système pourra permettre d'expérimenter les phénomènes de séléction naturelle de façon ludique.
+**Naturalis** s'inscrit dans la tendance biomimétique actuelle, qui consiste à vouloir imiter la nature dans tous les domaines (transports, textile, matériaux...). Cependant, ici le but n'est pas de s'inspirer des propriétés de plantes ou d'animaux pour les adapter aux besoins des Hommes mais de créer une simulation d'un environnement propice à la vie et d'observer ce que quelques cellules procaryotes avec un code génétique très simple peuvent générer comme espèces. Ce système pourra permettre d'expérimenter les phénomènes de séléction naturelle de façon ludique.
 
 
 ## TODO
